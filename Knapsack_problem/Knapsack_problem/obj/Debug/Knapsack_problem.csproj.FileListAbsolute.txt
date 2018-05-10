@@ -1,0 +1,14 @@
+C:\Users\Dima\Source\Repos\Knapsack_problem\Knapsack_problem\obj\Debug\Knapsack_problem.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Source\Repos\Knapsack_problem\Knapsack_problem\obj\Debug\Knapsack_problem.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Source\Repos\Knapsack_problem\Knapsack_problem\bin\Debug\Knapsack_problem.exe.config
+C:\Users\Dima\Source\Repos\Knapsack_problem\Knapsack_problem\bin\Debug\Knapsack_problem.exe
+C:\Users\Dima\Source\Repos\Knapsack_problem\Knapsack_problem\bin\Debug\Knapsack_problem.pdb
+C:\Users\Dima\Source\Repos\Knapsack_problem\Knapsack_problem\obj\Debug\Knapsack_problem.exe
+C:\Users\Dima\Source\Repos\Knapsack_problem\Knapsack_problem\obj\Debug\Knapsack_problem.pdb
+C:\Users\Dima\Desktop\repositoryres\Knapsack_problem\Knapsack_problem\Knapsack_problem\bin\Debug\Knapsack_problem.exe.config
+C:\Users\Dima\Desktop\repositoryres\Knapsack_problem\Knapsack_problem\Knapsack_problem\bin\Debug\Knapsack_problem.exe
+C:\Users\Dima\Desktop\repositoryres\Knapsack_problem\Knapsack_problem\Knapsack_problem\bin\Debug\Knapsack_problem.pdb
+C:\Users\Dima\Desktop\repositoryres\Knapsack_problem\Knapsack_problem\Knapsack_problem\obj\Debug\Knapsack_problem.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Desktop\repositoryres\Knapsack_problem\Knapsack_problem\Knapsack_problem\obj\Debug\Knapsack_problem.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\repositoryres\Knapsack_problem\Knapsack_problem\Knapsack_problem\obj\Debug\Knapsack_problem.exe
+C:\Users\Dima\Desktop\repositoryres\Knapsack_problem\Knapsack_problem\Knapsack_problem\obj\Debug\Knapsack_problem.pdb
